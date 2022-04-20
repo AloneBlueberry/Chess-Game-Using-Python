@@ -6,4 +6,4 @@ Hope you enjoy it :)
 
 
 Eddie Sharick's playlist on chess using python:
-https://youtube.com/playlist?list=PLBwF487qi8MGU81nDGaeNE1EnNEPYWKY_
+"https://youtube.com/playlist?list=PLBwF487qi8MGU81nDGaeNE1EnNEPYWKY_"
