@@ -5,5 +5,5 @@ Guys this program works completely fine. Most parts are same as what Eddie does 
 Hope you enjoy it :)
 
 
-Eddie Sharick's playlist on chess using python:
-"https://youtube.com/playlist?list=PLBwF487qi8MGU81nDGaeNE1EnNEPYWKY_"
+Eddie Sharick's 1st video on chess using python:
+https://youtu.be/EnYui0e73Rs
